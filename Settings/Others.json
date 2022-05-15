@@ -7,15 +7,15 @@
 },
     
 "Emojis":{
- "Off_Mic": "değiştirilecek",
+ "Off_Mic": "",
 
- "Check_Tick": "değiştirilecek",
+ "Check_Tick": "",
 
- "Red_Tick": "değiştirilecek",
+ "Red_Tick": "",
 
- "dnd": "değiştirilecek",
- "online": "değiştirilecek",
- "offline": "değiştirilecek",
- "idle": "değiştirilecek"
+ "dnd": "",
+ "online": "",
+ "offline": "",
+ "idle": ""
 }
 }
