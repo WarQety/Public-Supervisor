@@ -1,0 +1,21 @@
+{
+ 
+"Colors":{
+ "positive":"228B22",
+ "negative":"FF0000",
+ "notr":"808080"
+},
+    
+"Emojis":{
+ "Off_Mic": "değiştirilecek",
+
+ "Check_Tick": "değiştirilecek",
+
+ "Red_Tick": "değiştirilecek",
+
+ "dnd": "değiştirilecek",
+ "online": "değiştirilecek",
+ "offline": "değiştirilecek",
+ "idle": "değiştirilecek"
+}
+}

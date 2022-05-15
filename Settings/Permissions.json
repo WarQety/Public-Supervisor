@@ -1,0 +1,47 @@
+
+{
+ "Commander": "975436173147267133",
+ "Ust_Yetkili": "973617368263720980",
+ "Yetkili": "973617369299714088",
+ "Sahip": "542690559731433473",
+ "Trident": "973617346847588514",
+ "TMazaretli": "Doldurulacak",
+ "İzinli": "Doldurulacak",
+
+
+"Ban": {
+  "Auth_Roles": "973617370327298068",
+  "GIF": "https://tenor.com/view/ban-banned-sakura-anime-spray-gif-22585378"
+},
+"Chat_Mute": {
+ "Auth_Roles": ["973617372055363594"]
+
+},
+
+"Voice_Mute": {
+ "Auth_Roles": ["973617372055363594"]
+
+},
+
+"Jail": {
+ "Auth_Roles": "973617370327298068" 
+
+},
+
+"Register": {
+ "Auth_Roles": "973617373967970424"
+},
+
+"Warn": {
+ "Auth_Roles": "973617373967970424"
+},
+
+"Transport": {
+ "Auth_Roles": "973617370327298068"
+},
+
+"Terapi": {
+ "Auth_Roles": "975435215730278400"
+}
+
+}

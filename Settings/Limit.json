@@ -1,0 +1,12 @@
+{
+    "Point_Limit": 50,
+    "Yetkili": true,
+    "Tagli_Alim": false,
+    "Age_Limit": 17,
+    "Jail_Limit": 5,
+    "Ban_Limit": 3,
+    "Role_Limit": 5,
+    "Reklam_Limit": 5,
+    "Karantina_Limit": 5,
+    "Booster_Limit": 2
+   }
